@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy =  "PROXY chz01.gogogo.help:2212;"; "PROXY 45.32.36.33:25;";
+var proxy =  "PROXY chz01.gogogo.help:2212;";
 
 var domains = {
   "share.dmhy.org": 1,
