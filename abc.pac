@@ -1,6 +1,6 @@
 // http://pac.itzmx.com
 
-var proxy =  "PROXY chz01.gogogo.help:2212;";
+var proxy =  "PROXY chz01.gogogo.help:2212";"PROXY server01.pac.itzmx.com:25";"PROXY server02.pac.itzmx.com:21";"PROXY pac.tianti.io:25";
 
 var domains = {
   "share.dmhy.org": 1,
@@ -1031,6 +1031,7 @@ var domains = {
   "hwinfo.com": 1, 
   "hyperrate.com": 1, 
   "hypeshell.com": 1, 
+  "inoreader.com": 1,
   "i-cable.com": 1, 
   "i2p2.de": 1, 
   "i2runner.com": 1, 
