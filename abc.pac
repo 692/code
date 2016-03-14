@@ -1,9 +1,22 @@
 // http://pac.itzmx.com
 
-var proxy =  "PROXY chz01.gogogo.help:2212";"PROXY server01.pac.itzmx.com:25";"PROXY server02.pac.itzmx.com:21";"PROXY pac.tianti.io:25";
+
+var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
+// var proxy =  "PROXY porxy-tw-sz.mcplay.cn:21";
+// var proxy =  "PROXY chz01.gogogo.help:2212";
+// var proxy =  "PROXY server01.pac.itzmx.com:25";
+// var proxy =  "PROXY server02.pac.itzmx.com:21";
+// var proxy =  "PROXY pac.tianti.io:25";
 
 var domains = {
-  "share.dmhy.org": 1,
+  "evernote.com": 1,
+  "getpocket.com": 1,
+  "ntdtv.com": 1,
+  "kin8tengoku.com": 1,
+  "1000giri.net": 1,
+  "gachinco.com": 1,
+  "caribbeancom.com": 1,
+  "heyzo.com": 1, "share.dmhy.org": 1,
   "archeage.jp": 1,
   "blogspot.jp": 1,
   "bbc.com": 1,
@@ -13,7 +26,7 @@ var domains = {
   "keepvid.com": 1,
   "unblockdmm.com": 1,
   "lvv2.com": 1,
-  //"raw.githubusercontent.com": 1,
+  "raw.githubusercontent.com": 1,
   "iobit.com": 1,
   "telegram.org": 1,
   "abc.xyz": 1,
