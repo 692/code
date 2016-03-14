@@ -10,6 +10,7 @@ var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
 // var proxy =  "PROXY pac.tianti.io:25";
 
 var domains = {
+  "btaia.com": 1,
   "ntdtv.com": 1,
   "kin8tengoku.com": 1,
   "1000giri.net": 1,
