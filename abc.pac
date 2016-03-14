@@ -6,11 +6,10 @@ var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
 // var proxy =  "PROXY chz01.gogogo.help:2212";
 // var proxy =  "PROXY server01.pac.itzmx.com:25";
 // var proxy =  "PROXY server02.pac.itzmx.com:21";
+// var proxy =  "PROXY test.proxy.ipcn.org:61642";
 // var proxy =  "PROXY pac.tianti.io:25";
 
 var domains = {
-  "evernote.com": 1,
-  "getpocket.com": 1,
   "ntdtv.com": 1,
   "kin8tengoku.com": 1,
   "1000giri.net": 1,
