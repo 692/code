@@ -1647,6 +1647,7 @@ var domains = {
   "porn2.com": 1, 
   "pornbase.org": 1, 
   "pornhub.com": 1, 
+  "phncdn.com": 1, 
   "pornmm.net": 1, 
   "pornoxo.com": 1, 
   "pornrapidshare.com": 1, 
