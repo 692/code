@@ -1,5 +1,8 @@
 // http://pac.itzmx.com
-
+// http://p.hxapn.com/h.pac
+// https://pac.mcplay.cn
+// http://pac.ipcn.org/thu.pac
+// http://tianti.io/n.pac
 
 // var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
 // var proxy =  "PROXY porxy-tw-sz.mcplay.cn:21";
@@ -10,6 +13,7 @@
 // var proxy =  "PROXY pac.tianti.io:25";
 
 var domains = {
+  "fuskator.com": 1,
   "btaia.com": 1,
   "ntdtv.com": 1,
   "kin8tengoku.com": 1,
