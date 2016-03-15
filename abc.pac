@@ -1,9 +1,9 @@
 // http://pac.itzmx.com
 
 
-var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
+//var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
 // var proxy =  "PROXY porxy-tw-sz.mcplay.cn:21";
-// var proxy =  "PROXY chz01.gogogo.help:2212";
+var proxy =  "PROXY chz01.gogogo.help:2212";
 // var proxy =  "PROXY server01.pac.itzmx.com:25";
 // var proxy =  "PROXY server02.pac.itzmx.com:21";
 // var proxy =  "PROXY test.proxy.ipcn.org:61642";
@@ -26,7 +26,6 @@ var domains = {
   "keepvid.com": 1,
   "unblockdmm.com": 1,
   "lvv2.com": 1,
-  "raw.githubusercontent.com": 1,
   "iobit.com": 1,
   "telegram.org": 1,
   "abc.xyz": 1,
@@ -847,7 +846,6 @@ var domains = {
   "gimpshop.com": 1, 
   "girlbanker.com": 1, 
   "git-scm.com": 1, 
-  "github.com": 1, 
   "givemesomethingtoread.com": 1, 
   "glennhilton.com": 1, 
   "globaljihad.net": 1, 
