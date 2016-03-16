@@ -1,11 +1,9 @@
 // http://pac.itzmx.com  // http://p.hxapn.com/h.pac  // https://pac.mcplay.cn  // http://pac.ipcn.org/thu.pac  // http://tianti.io/n.pac
 
-
-// var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
+var proxy =  "PROXY 116.6.67.107:23"; // var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
 // var proxy =  "PROXY porxy-tw-sz.mcplay.cn:21";
 // var proxy =  "PROXY chz01.gogogo.help:2212";
- var proxy =  "PROXY 45.32.36.33:25";  
- //var proxy =  "PROXY server01.pac.itzmx.com:25";
+// var proxy =  "PROXY 45.32.36.33:25";   //var proxy =  "PROXY server01.pac.itzmx.com:25";
 // var proxy =  "PROXY server02.pac.itzmx.com:21";
 // var proxy =  "PROXY test.proxy.ipcn.org:61642";
 // var proxy =  "PROXY pac.tianti.io:25";
