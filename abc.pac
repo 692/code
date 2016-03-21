@@ -10,6 +10,7 @@
 // var proxy =  "PROXY 45.32.42.148:25";     // var proxy =  "PROXY pac.tianti.io:25";
 
 var domains = {
+  "hegre-art.com": 1,
   "kodi.tk": 1,
   "fuskator.com": 1,
   "btaia.com": 1,
