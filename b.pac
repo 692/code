@@ -17,7 +17,7 @@ function FindProxyForURL(url, host) {
                dnsDomainIs(host, '.2mdn.net') ||
                dnsDomainIs(host, '.doubleclick.net')) {
         return blackhole;
-    } else if (shExpMatch(host, '*.google*.*') ||
+    } else if (shExpMatch(host, '*.google.*') ||
                dnsDomainIs(host, '.ggpht.com') ||
                dnsDomainIs(host, '.wikipedia.org') ||
                host == 'cdnjs.cloudflare.com' ||
