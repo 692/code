@@ -3151,7 +3151,7 @@ function FindProxyForURLByAutoProxy(url, host) {
     var lastPos;
     do {
         if (autoproxy_host.hasOwnProperty(host)) {
-            return 'autoproxy';
+            return 'PROXY chz01.gogogo.help:2212';
         }
         lastPos = host.indexOf('.') + 1;
         host = host.slice(lastPos);
@@ -3512,7 +3512,7 @@ var blackhole_host = {
 function FindProxyForURLByAdblock(url, host) {
     // untrusted ablock plus list, disable whitelist until chinalist come back.
     if (blackhole_host.hasOwnProperty(host)) {
-        return 'blackhole';
+        return 'PROXY 127.0.0.1:8086';
     }
     return 'DIRECT';
 }
