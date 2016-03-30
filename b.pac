@@ -24,7 +24,7 @@ function FindProxyForURL(url, host) {
                host == 'wp.me' ||
                host == 'po.st' ||
                host == 'goo.gl') {
-        return 59.190.145.219:80;
+        return www.google.cn:80;
     } else {
         return FindProxyForURLByAutoProxy(url, host);
     }
