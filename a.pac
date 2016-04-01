@@ -1,9 +1,9 @@
 // http://pac.itzmx.com  // http://p.hxapn.com/h.pac  // https://pac.mcplay.cn  // http://pac.ipcn.org/thu.pac  // http://tianti.io/n.pac
 
 
-// var proxy =  "PROXY 116.6.67.89:23";    
+ var proxy =  "PROXY 116.6.67.89:23";    
 // var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
- var proxy =  "PROXY 45.32.36.33:25";       
+// var proxy =  "PROXY 45.32.36.33:25";       
 // var proxy =  "PROXY 170.178.188.217:25";  
 // var proxy =  "PROXY server01.pac.itzmx.com:25";
 // var proxy =  "PROXY 120.26.88.17:2212";   
