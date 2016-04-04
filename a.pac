@@ -5,8 +5,8 @@
 // var proxy =  "PROXY 210.83.229.96:23";
 // var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23";
 // var proxy =  "PROXY 45.32.36.33:25";       
-// var proxy =  "PROXY 170.178.188.217:25";  
- var proxy =  "PROXY server01.pac.itzmx.com:25";
+ var proxy =  "PROXY 101.227.252.163:25";  
+// var proxy =  "PROXY server01.pac.itzmx.com:25";
 // var proxy =  "PROXY 120.26.88.17:2212";   
 // var proxy =  "PROXY chz01.gogogo.help:2212";
 // var proxy =  "PROXY 210.83.229.107:21";  
