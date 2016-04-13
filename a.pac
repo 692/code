@@ -17,6 +17,7 @@
 // var proxy =  "PROXY 45.32.42.148:25;";     // var proxy =  "PROXY pac.tianti.io:25";
 
 var domains = {
+  "btdigg.org": 1,
   "sis001.com": 1,
   "kodi.tv": 1,
   "hegre-art.com": 1,
