@@ -1,4 +1,4 @@
-// http://pac.itzmx.com  // http://p.hxapn.com/h.pac  // https://pac.mcplay.cn  // http://pac.ipcn.org/thu.pac  // http://tianti.io/n.pac
+//http://pac.itzmx.com  http://p.hxapn.com/h.pac  https://pac.mcplay.cn/jp.pac  http://pac.ipcn.org/thu.pac  http://tianti.io/n.pac
 
 
  var proxy =  "PROXY 116.6.67.107:23;";  
