@@ -1,8 +1,8 @@
 //http://pac.itzmx.com  http://p.hxapn.com/h.pac  https://pac.mcplay.cn/jp.pac  http://pac.ipcn.org/thu.pac  http://tianti.io/n.pac
 
-// var proxy =  "socks5 ultrasurf.kprrdxg.info:443;";  
-// var proxy =  "PROXY 116.6.67.107:23;";  
- var proxy =  "PROXY 210.83.229.107:23;";
+ 
+ var proxy =  "PROXY 116.6.67.107:23;";  
+// var proxy =  "PROXY 210.83.229.107:23;";
 // var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23;";
 // var proxy =  "PROXY 210.83.229.107:21;";  
 // var proxy =  "PROXY porxy-tw-sz.mcplay.cn:21;";
@@ -15,6 +15,7 @@
 // var proxy =  "PROXY 166.111.48.33:25;";    
 // var proxy =  "PROXY test.proxy.ipcn.org:60072;";
 // var proxy =  "PROXY 45.32.42.148:25;";     // var proxy =  "PROXY pac.tianti.io:25";
+// var proxy =  "socks5 ultrasurf.kprrdxg.info:443;"; 
 
 var domains = {
   "btdigg.org": 1,
