@@ -1,6 +1,6 @@
 //http://pac.itzmx.com  http://p.hxapn.com/h.pac  https://pac.mcplay.cn/jp.pac  http://pac.ipcn.org/thu.pac  http://tianti.io/n.pac
 
- var proxy =  "PROXY ultrasurf.kprrdxg.info:443;";  
+ var proxy =  "PROXY https://ultrasurf.kprrdxg.info:443;";  
 // var proxy =  "PROXY 116.6.67.107:23;";  
 // var proxy =  "PROXY 210.83.229.96:23;";
 // var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23;";
