@@ -1,9 +1,9 @@
 //http://pac.itzmx.com  http://p.hxapn.com/h.pac  https://pac.mcplay.cn/jp.pac  http://pac.ipcn.org/thu.pac  http://tianti.io/n.pac
 
 // var proxy =  "socks5 ultrasurf.kprrdxg.info:443;";  
- var proxy =  "PROXY 116.6.67.107:23;";  
+// var proxy =  "PROXY 116.6.67.107:23;";  
 // var proxy =  "PROXY 210.83.229.96:23;";
-// var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23;";
+ var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23;";
 // var proxy =  "PROXY 210.83.229.107:21;";  
 // var proxy =  "PROXY porxy-tw-sz.mcplay.cn:21;";
 // var proxy =  "PROXY 45.32.26.50:25;";   
