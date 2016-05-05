@@ -16,8 +16,12 @@
 // var proxy =  "PROXY test.proxy.ipcn.org:60072;";
 // var proxy =  "PROXY 45.32.42.148:25;";     // var proxy =  "PROXY pac.tianti.io:25";
 // var proxy =  "socks5 ultrasurf.kprrdxg.info:443;"; 
+// var proxy =  "PROXY pac01.doubi.date:25;";
 
 var domains = {
+  "ift.tt": 1,
+  "cna.com.tw": 1,
+  "ltn.com.tw": 1,
   "sis001.com": 1,
   "kodi.tv": 1,
   "hegre-art.com": 1,
