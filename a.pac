@@ -2,8 +2,8 @@
 
  
 // var proxy =  "PROXY 116.6.67.107:23;";  
-// var proxy =  "PROXY 210.83.229.107:23;";
- var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23;";
+ var proxy =  "PROXY 210.83.229.107:23;";
+// var proxy =  "PROXY porxy-jp-sz.mcplay.cn:23;";
 // var proxy =  "PROXY 210.83.229.107:21;";  
 // var proxy =  "PROXY porxy-tw-sz.mcplay.cn:21;";
 // var proxy =  "PROXY 45.32.26.50:25;";   
