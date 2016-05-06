@@ -1,9 +1,9 @@
 //https://pac.mcplay.cn
 //https://pac.mcplay.cn/jp.pac
 
-var proxy =  "PROXY porxy-jp-sz.mcplay.cn:25;";
+//var proxy =  "PROXY porxy-jp-sz.mcplay.cn:25;";
 //var proxy =  "PROXY 116.6.67.107:25;";
-//var proxy =  "PROXY 157.7.248.48:25;";
+var proxy =  "PROXY 157.7.248.48:25;";
 //var proxy =  "PROXY 210.61.148.244:25;";
 
 var domains = {
