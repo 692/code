@@ -7,6 +7,8 @@ var proxy =  "PROXY 157.7.248.48:25;";
 //var proxy =  "PROXY 210.61.148.244:25;";
 
 var domains = {
+  "oloadcdn.net": 1,
+  "jav720p.com": 1,
   "ift.tt": 1,
   "cna.com.tw": 1,
   "ltn.com.tw": 1,
