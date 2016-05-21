@@ -3,7 +3,8 @@
 
 //var proxy =  "PROXY porxy-jp-sz.mcplay.cn:25;";
 //var proxy =  "PROXY 116.6.67.107:25;";
-var proxy =  "PROXY 157.7.248.48:25;";
+//var proxy =  "PROXY 157.7.248.48:25;";
+var proxy =  "PROXY 157.7.248.227:25;";
 //var proxy =  "PROXY 210.61.148.244:25;";
 
 var domains = {
