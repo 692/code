@@ -1,8 +1,8 @@
 //http://pac.itzmx.com
 //http://pac.itzmx.com/abc.pac
 
-// var proxy =  "PROXY server01.pac.itzmx.com:25;";
- var proxy =  "PROXY 45.32.26.50:25;";
+ var proxy =  "PROXY server01.pac.itzmx.com:25;";
+// var proxy =  "PROXY 45.32.26.50:25;";
 // var proxy =  "PROXY 153.92.46.76:25;";
 // var proxy =  "PROXY 170.178.188.218:25;";
 
