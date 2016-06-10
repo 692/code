@@ -10,7 +10,9 @@
 // var proxy =  "PROXY 153.92.46.76:25;";     
 // var proxy =  "PROXY server01.pac.itzmx.com:25;";
 // var proxy =  "PROXY 120.26.88.17:2212;";   
- var proxy =  "PROXY chz01.gogogo.help:2212;";
+// var proxy =  "PROXY chz01.gogogo.help:2212;";
+ var proxy =  "PROXY  test.proxy.ipcn.org:60072;";
+
 // var proxy =  "PROXY 140.205.140.234:21;";  
 // var proxy =  "PROXY server02.pac.itzmx.com:21;";
 // var proxy =  "PROXY 166.111.48.33:25;";    
