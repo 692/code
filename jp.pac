@@ -4,7 +4,7 @@
 //var proxy =  "PROXY pac.agro.hk:25;";
 //var proxy =  "PROXY porxy-jp-sz.mcplay.cn:25;";
 //var proxy =  "PROXY 116.6.67.107:25;";
-var proxy =  "PROXY 13.94.42.65:25;";
+var proxy =  "PROXY 13.94.43.231:25;";
 //var proxy =  "PROXY 210.61.2.91:25;";
 //var proxy =  "PROXY 157.7.248.227:25;";
 //var proxy =  "PROXY 203.66.65.141:25;";
