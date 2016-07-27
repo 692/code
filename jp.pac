@@ -1,7 +1,7 @@
 //https://pac.mcplay.cn
 //https://pac.mcplay.cn/jp.pac
 
-//var proxy =  "PROXY pac.agro.hk:25;";
+//var proxy =  "PROXY pac1.agro.hk:25;";
 //var proxy =  "PROXY porxy-jp-sz.mcplay.cn:25;";
 //var proxy =  "PROXY 116.6.67.107:25;";
 var proxy =  "PROXY 13.94.43.231:25;";
