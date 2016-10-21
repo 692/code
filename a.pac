@@ -18,7 +18,7 @@
 // var proxy =  "PROXY 166.111.48.33:25;";    
 // var proxy =  "PROXY test.proxy.ipcn.org:60072;";
 // var proxy =  "PROXY 45.32.42.148:25;";     // var proxy =  "PROXY pac.tianti.io:25";
- var proxy =  "PROXY yessignoverall.info:443;"; 
+ var proxy =  "SOCKS5 yessignoverall.info:443;"; 
 // var proxy =  "PROXY pac01.doubi.date:25;";
 
 var domains = {
