@@ -307,6 +307,54 @@ proxy-groups:
   - WARP-9
   - WARP-10
   type: select
+- name: 📲 聊天软件
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 🌏 日韩媒体
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 🌏 港台媒体
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
 - name: 🌍 国外媒体
   proxies:
   - 🌐 节点选择
@@ -339,7 +387,87 @@ proxy-groups:
   - WARP-9
   - WARP-10
   type: select
+- name: 🎵 Spotify
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
 - name: 🎬 NETFLIX
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 🎬 Disney+
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 🎬 HBO
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 🎬 Prime
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 📺 Emby
   proxies:
   - 🌐 节点选择
   - 💡 自动选择
@@ -371,6 +499,54 @@ proxy-groups:
   - WARP-9
   - WARP-10
   type: select
+- name: 📺 巴哈姆特
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 📺 哔哩哔哩
+  proxies:
+  - 🌍 全球直连
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 📺 爱奇艺
+  proxies:
+  - 🌍 全球直连
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
 - name: 🍎 苹果服务
   proxies:
   - 🌍 全球直连
@@ -388,6 +564,38 @@ proxy-groups:
   - WARP-10
   type: select
 - name: 🧩 微软服务
+  proxies:
+  - 🌍 全球直连
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 🎮 游戏平台
+  proxies:
+  - 🌐 节点选择
+  - 💡 自动选择
+  - 🌍 全球直连
+  - 2024年4月1日
+  - WARP-2
+  - WARP-3
+  - WARP-4
+  - WARP-5
+  - WARP-6
+  - WARP-7
+  - WARP-8
+  - WARP-9
+  - WARP-10
+  type: select
+- name: 📥 BT & PT
   proxies:
   - 🌍 全球直连
   - 🌐 节点选择
