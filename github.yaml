@@ -448,6 +448,162 @@ proxy-groups:
   - WARP-10
   type: select
 rules:
+- DOMAIN-SUFFIX,ol.epicgames.com,🎮 游戏平台
+- DOMAIN-SUFFIX,epicgames.com,🎮 游戏平台
+- DOMAIN-SUFFIX,helpshift.com,🎮 游戏平台
+- DOMAIN-SUFFIX,paragon.com,🎮 游戏平台
+- DOMAIN-SUFFIX,unrealengine.com,🎮 游戏平台
+- DOMAIN-SUFFIX,fanatical.com,🎮 游戏平台
+- DOMAIN-SUFFIX,humblebundle.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steam-chat.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steamcommunity.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steampowered.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steamstatic.com,🎮 游戏平台
+- DOMAIN-SUFFIX,csgo.wmsj.cn,🎮 游戏平台
+- DOMAIN-SUFFIX,dl.steam.ksyna.com,🎮 游戏平台
+- DOMAIN-SUFFIX,dota2.wmsj.cn,🎮 游戏平台
+- DOMAIN-SUFFIX,st.dl.bscstorage.net,🎮 游戏平台
+- DOMAIN-SUFFIX,st.dl.eccdnx.com,🎮 游戏平台
+- DOMAIN-SUFFIX,st.dl.pinyuncloud.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steamcommunity-a.akamaihd.net,🎮 游戏平台
+- DOMAIN-SUFFIX,steamcontent.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steamgames.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steampowered.com.8686c.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steamstat.us,🎮 游戏平台
+- DOMAIN-SUFFIX,steamstatic.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steamusercontent.com,🎮 游戏平台
+- DOMAIN-SUFFIX,steamuserimages-a.akamaihd.net,🎮 游戏平台
+- DOMAIN-KEYWORD,rockstargames,🎮 游戏平台
+- DOMAIN,a.rsg.sc,🎮 游戏平台
+- DOMAIN,gamedownloads-rockstargames-com.akamaized.net,🎮 游戏平台
+- DOMAIN,media-rockstargames-com.akamaized.net,🎮 游戏平台
+- DOMAIN,videos-rockstargames-com.akamaized.net,🎮 游戏平台
+- DOMAIN,rockstarsupport.goquiq.com,🎮 游戏平台
+- DOMAIN,ocsp.entrust.net,🎮 游戏平台
+- DOMAIN,stats.g.doubleclick.net,🎮 游戏平台
+- DOMAIN,static.quiq-cdn.com,🎮 游戏平台
+- DOMAIN-SUFFIX,recaptcha.net,🎮 游戏平台
+- DOMAIN-SUFFIX,rockstargames.com,🎮 游戏平台
+- DOMAIN-SUFFIX,playstation.com,🎮 游戏平台
+- DOMAIN-SUFFIX,playstation.net,🎮 游戏平台
+- DOMAIN-SUFFIX,playstationnetwork.com,🎮 游戏平台
+- DOMAIN-SUFFIX,sony.com,🎮 游戏平台
+- DOMAIN-SUFFIX,sonyentertainmentnetwork.com,🎮 游戏平台
+- DOMAIN-SUFFIX,measurement.com,🎮 游戏平台
+- DOMAIN-SUFFIX,nintendo.com,🎮 游戏平台
+- DOMAIN-KEYWORD,beetalk,📲 聊天软件
+- DOMAIN-SUFFIX,t.me,📲 聊天软件
+- DOMAIN-SUFFIX,tdesktop.com,📲 聊天软件
+- DOMAIN-SUFFIX,telegram.me,📲 聊天软件
+- DOMAIN-SUFFIX,telegram.org,📲 聊天软件
+- DOMAIN-SUFFIX,telesco.pe,📲 聊天软件
+- IP-CIDR,91.108.0.0/16,📲 聊天软件,no-resolve
+- IP-CIDR,109.239.140.0/24,📲 聊天软件,no-resolve
+- IP-CIDR,149.154.160.0/20,📲 聊天软件,no-resolve
+- IP-CIDR6,2001:67c:4e8::/48,📲 聊天软件,no-resolve
+- IP-CIDR6,2001:b28:f23d::/48,📲 聊天软件,no-resolve
+- IP-CIDR6,2001:b28:f23f::/48,📲 聊天软件,no-resolve
+- DOMAIN-KEYWORD,whatsapp,📲 聊天软件
+- IP-CIDR,18.194.0.0/15,📲 聊天软件,no-resolve
+- IP-CIDR,34.224.0.0/12,📲 聊天软件,no-resolve
+- IP-CIDR,54.242.0.0/15,📲 聊天软件,no-resolve
+- IP-CIDR,50.22.198.204/30,📲 聊天软件,no-resolve
+- IP-CIDR,208.43.122.128/27,📲 聊天软件,no-resolve
+- IP-CIDR,108.168.174.0/16,📲 聊天软件,no-resolve
+- IP-CIDR,173.192.231.32/27,📲 聊天软件,no-resolve
+- IP-CIDR,158.85.5.192/27,📲 聊天软件,no-resolve
+- IP-CIDR,174.37.243.0/16,📲 聊天软件,no-resolve
+- IP-CIDR,158.85.46.128/27,📲 聊天软件,no-resolve
+- IP-CIDR,173.192.222.160/27,📲 聊天软件,no-resolve
+- IP-CIDR,184.173.128.0/17,📲 聊天软件,no-resolve
+- IP-CIDR,158.85.224.160/27,📲 聊天软件,no-resolve
+- DOMAIN-SUFFIX,lin.ee,📲 聊天软件
+- DOMAIN-SUFFIX,line-apps.com,📲 聊天软件
+- DOMAIN-SUFFIX,line-cdn.net,📲 聊天软件
+- DOMAIN-SUFFIX,line-scdn.net,📲 聊天软件
+- DOMAIN-SUFFIX,line.me,📲 聊天软件
+- DOMAIN-SUFFIX,line.naver.jp,📲 聊天软件
+- DOMAIN-SUFFIX,nhncorp.jp,📲 聊天软件
+- IP-CIDR,103.2.28.0/24,📲 聊天软件,no-resolve
+- IP-CIDR,103.2.30.0/23,📲 聊天软件,no-resolve
+- IP-CIDR,119.235.224.0/24,📲 聊天软件,no-resolve
+- IP-CIDR,119.235.232.0/24,📲 聊天软件,no-resolve
+- IP-CIDR,119.235.235.0/24,📲 聊天软件,no-resolve
+- IP-CIDR,119.235.236.0/23,📲 聊天软件,no-resolve
+- IP-CIDR,147.92.128.0/17,📲 聊天软件,no-resolve
+- IP-CIDR,203.104.128.0/19,📲 聊天软件,no-resolve
+- DOMAIN-SUFFIX,kakao.com,📲 聊天软件
+- DOMAIN-SUFFIX,kakao.co.kr,📲 聊天软件
+- DOMAIN-SUFFIX,kakaocdn.net,📲 聊天软件
+- IP-CIDR,1.201.0.0/24,📲 聊天软件,no-resolve
+- IP-CIDR,27.0.236.0/22,📲 聊天软件,no-resolve
+- IP-CIDR,103.27.148.0/22,📲 聊天软件,no-resolve
+- IP-CIDR,103.246.56.0/22,📲 聊天软件,no-resolve
+- IP-CIDR,110.76.140.0/22,📲 聊天软件,no-resolve
+- IP-CIDR,113.61.104.0/22,📲 聊天软件,no-resolve
+- DOMAIN-SUFFIX,clubhouseapi.com,📲 聊天软件,Clubhouse
+- DOMAIN-SUFFIX,joinclubhouse.com,📲 聊天软件,Clubhouse
+- DOMAIN,clubhouseprod.s3.amazonaws.com,📲 聊天软件,Clubhouse
+- DOMAIN,clubhouse.pubnub.com,📲 聊天软件,Clubhouse
+- IP-CIDR,3.0.163.78/32,📲 聊天软件,Clubhouse
+- IP-CIDR,13.230.60.35/32,📲 聊天软件,Clubhouse
+- IP-CIDR,23.98.43.152/32,📲 聊天软件,Clubhouse
+- IP-CIDR,35.156.231.150/32,📲 聊天软件,Clubhouse
+- IP-CIDR,35.168.106.53/32,📲 聊天软件,Clubhouse
+- IP-CIDR,35.178.208.187/32,📲 聊天软件,Clubhouse
+- IP-CIDR,45.40.48.11/32,📲 聊天软件,Clubhouse
+- IP-CIDR,50.18.128.22/32,📲 聊天软件,Clubhouse
+- IP-CIDR,52.52.84.170/32,📲 聊天软件,Clubhouse
+- IP-CIDR,52.58.56.244/32,📲 聊天软件,Clubhouse
+- IP-CIDR,52.178.26.110/32,📲 聊天软件,Clubhouse
+- IP-CIDR,52.194.158.59/32,📲 聊天软件,Clubhouse
+- IP-CIDR,52.221.46.208/32,📲 聊天软件,Clubhouse
+- IP-CIDR,54.178.26.110/32,📲 聊天软件,Clubhouse
+- IP-CIDR,69.28.51.148/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.130/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.132/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.137/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.139/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.152/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.157/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.159/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.166/32,📲 聊天软件,Clubhouse
+- IP-CIDR,103.65.41.169/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.130/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.133/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.135/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.136/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.138/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.139/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.144/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.146/32,📲 聊天软件,Clubhouse
+- IP-CIDR,129.227.57.147/32,📲 聊天软件,Clubhouse
+- IP-CIDR,148.153.126.147/32,📲 聊天软件,Clubhouse
+- IP-CIDR,148.153.172.73/32,📲 聊天软件,Clubhouse
+- IP-CIDR,148.153.172.74/32,📲 聊天软件,Clubhouse
+- IP-CIDR,148.153.172.75/32,📲 聊天软件,Clubhouse
+- IP-CIDR,148.153.172.76/32,📲 聊天软件,Clubhouse
+- IP-CIDR,148.153.172.77/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.66/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.67/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.68/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.69/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.70/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.75/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.76/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.77/32,📲 聊天软件,Clubhouse
+- IP-CIDR,164.52.102.91/32,📲 聊天软件,Clubhouse
+- IP-CIDR,199.190.44.36/32,📲 聊天软件,Clubhouse
+- IP-CIDR,199.190.44.37/32,📲 聊天软件,Clubhouse
+- IP-CIDR,202.181.136.108/32,📲 聊天软件,Clubhouse
+- IP-CIDR,202.226.25.166/32,📲 聊天软件,Clubhouse
+- DOMAIN,gamer-cds.cdn.hinet.net,📺 巴哈姆特
+- DOMAIN,gamer2-cds.cdn.hinet.net,📺 巴哈姆特
+- DOMAIN-SUFFIX,bahamut.com.tw,📺 巴哈姆特
+- DOMAIN-SUFFIX,gamer.com.tw,📺 巴哈姆特
+- DOMAIN-SUFFIX,hinet.net,📺 巴哈姆特
+- DOMAIN-SUFFIX,tw.manhuagui.com,📺 巴哈姆特
+- DOMAIN-SUFFIX,i.hamreus.com,📺 巴哈姆特
 - DOMAIN-KEYWORD,youtube,📹 YouTube
 - DOMAIN,youtubei.googleapis.com,📹 YouTube
 - DOMAIN,yt3.ggpht.com,📹 YouTube
@@ -456,6 +612,92 @@ rules:
 - DOMAIN-SUFFIX,youtu.be,📹 YouTube
 - DOMAIN-SUFFIX,youtube.com,📹 YouTube
 - DOMAIN-SUFFIX,ytimg.com,📹 YouTube
+- DOMAIN-KEYWORD,-spotify-com,🎵 Spotify
+- DOMAIN-KEYWORD,spotify.com,🎵 Spotify
+- DOMAIN-SUFFIX,pscdn.co,🎵 Spotify
+- DOMAIN-SUFFIX,scdn.co,🎵 Spotify
+- DOMAIN-SUFFIX,spoti.fi,🎵 Spotify
+- DOMAIN-SUFFIX,spotify.com,🎵 Spotify
+- DOMAIN-SUFFIX,spotifycdn.net,🎵 Spotify
+- DOMAIN-SUFFIX,spotilocal.com,🎵 Spotify
+- IP-CIDR,35.186.224.47/32,🎵 Spotify,no-resolve
+- DOMAIN-SUFFIX,dmc.nico,🌏 日韩媒体
+- DOMAIN-SUFFIX,nicovideo.jp,🌏 日韩媒体
+- DOMAIN-SUFFIX,nimg.jp,🌏 日韩媒体
+- DOMAIN-SUFFIX,happyon.jp,🌏 日韩媒体
+- DOMAIN-SUFFIX,hulu.jp,🌏 日韩媒体
+- DOMAIN-SUFFIX,prod.hjholdings.tv,🌏 日韩媒体
+- DOMAIN-SUFFIX,streaks.jp,🌏 日韩媒体
+- DOMAIN-SUFFIX,yb.uncn.jp,🌏 日韩媒体
+- DOMAIN-KEYWORD,japonx,🌏 日韩媒体
+- DOMAIN-KEYWORD,japronx,🌏 日韩媒体
+- DOMAIN-SUFFIX,japonx.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,japonx.net,🌏 日韩媒体
+- DOMAIN-SUFFIX,japonx.tv,🌏 日韩媒体
+- DOMAIN-SUFFIX,japonx.vip,🌏 日韩媒体
+- DOMAIN-SUFFIX,japronx.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,japronx.net,🌏 日韩媒体
+- DOMAIN-SUFFIX,japronx.tv,🌏 日韩媒体
+- DOMAIN-SUFFIX,japronx.vip,🌏 日韩媒体
+- DOMAIN-KEYWORD,abematv.akamaized.net,🌏 日韩媒体
+- DOMAIN-SUFFIX,abema.io,🌏 日韩媒体
+- DOMAIN-SUFFIX,abema.tv,🌏 日韩媒体
+- DOMAIN-SUFFIX,ameba.jp,🌏 日韩媒体
+- DOMAIN-SUFFIX,hayabusa.io,🌏 日韩媒体
+- DOMAIN-SUFFIX,pixiv.net,🌏 日韩媒体
+- DOMAIN-SUFFIX,pximg.net,🌏 日韩媒体
+- DOMAIN-SUFFIX,navismithapis-cdn.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,dmm.co.jp,🌏 日韩媒体
+- DOMAIN-SUFFIX,dmm.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,dmm.hk,🌏 日韩媒体
+- DOMAIN-SUFFIX,dmm-extension.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,ddo.jp,🌏 日韩媒体
+- DOMAIN-SUFFIX,hibiki-site.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,minori.ph,🌏 日韩媒体
+- DOMAIN-SUFFIX,tenco.cc,🌏 日韩媒体
+- DOMAIN-SUFFIX,wheel-soft.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,akabeesoft2.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,akabeesoft3.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,akatsukiworks.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,alicesoft.com,🌏 日韩媒体
+- DOMAIN-SUFFIX,cosmiccute.com,🌏 日韩媒体
+- IP-CIDR,203.104.209.7/32,🌏 日韩媒体,no-resolve
+- IP-CIDR,125.6.189.7/32,🌏 日韩媒体,no-resolve
+- DOMAIN,d3c7rimkq79yfu.cloudfront.net,🌏 港台媒体
+- DOMAIN-SUFFIX,d3c7rimkq79yfu.cloudfront.net,🌏 港台媒体
+- DOMAIN-SUFFIX,linetv.tw,🌏 港台媒体
+- DOMAIN-SUFFIX,profile.line-scdn.net,🌏 港台媒体
+- DOMAIN,kktv-theater.kk.stream,🌏 港台媒体
+- DOMAIN-SUFFIX,kktv.com.tw,🌏 港台媒体
+- DOMAIN-SUFFIX,kktv.me,🌏 港台媒体
+- DOMAIN,litvfreemobile-hichannel.cdn.hinet.net,🌏 港台媒体
+- DOMAIN-SUFFIX,litv.tv,🌏 港台媒体
+- DOMAIN,mytvsuperlimited.hb.omtrdc.net,🌏 港台媒体
+- DOMAIN,mytvsuperlimited.sc.omtrdc.net,🌏 港台媒体
+- DOMAIN-SUFFIX,mytvsuper.com,🌏 港台媒体
+- DOMAIN-SUFFIX,tvb.com,🌏 港台媒体
+- DOMAIN-SUFFIX,neulion.com,🌏 港台媒体
+- DOMAIN-SUFFIX,icntv.xyz,🌏 港台媒体
+- DOMAIN-SUFFIX,flzbcdn.xyz,🌏 港台媒体
+- DOMAIN-SUFFIX,5itv.tv,🌏 港台媒体
+- DOMAIN-SUFFIX,ocnttv.com,🌏 港台媒体
+- DOMAIN,api.viu.now.com,🌏 港台媒体
+- DOMAIN,d1k2us671qcoau.cloudfront.net,🌏 港台媒体
+- DOMAIN,d2anahhhmp1ffz.cloudfront.net,🌏 港台媒体
+- DOMAIN,dfp6rglgjqszk.cloudfront.net,🌏 港台媒体
+- DOMAIN-SUFFIX,bootstrapcdn.com,🌏 港台媒体
+- DOMAIN-SUFFIX,cloudfront.net,🌏 港台媒体
+- DOMAIN-SUFFIX,cognito-identity.us-east-1.amazonaws.com,🌏 港台媒体
+- DOMAIN-SUFFIX,firebaseio.com,🌏 港台媒体
+- DOMAIN-SUFFIX,jwpcdn.com,🌏 港台媒体
+- DOMAIN-SUFFIX,jwplayer.com,🌏 港台媒体
+- DOMAIN-SUFFIX,mobileanalytics.us-east-1.amazonaws.com,🌏 港台媒体
+- DOMAIN-SUFFIX,nowe.com,🌏 港台媒体
+- DOMAIN-SUFFIX,viu.com,🌏 港台媒体
+- DOMAIN-SUFFIX,viu.now.com,🌏 港台媒体
+- DOMAIN-SUFFIX,viu.tv,🌏 港台媒体
+- DOMAIN,hamifans.emome.net,🌏 港台媒体
+- DOMAIN-SUFFIX,skyking.com.tw,🌏 港台媒体
 - DOMAIN-SUFFIX,p-cdn.us,🌍 国外媒体
 - DOMAIN-SUFFIX,sndcdn.com,🌍 国外媒体
 - DOMAIN-SUFFIX,soundcloud.com,🌍 国外媒体
@@ -643,6 +885,52 @@ rules:
 - DOMAIN-SUFFIX,twitter.com,🌍 国外媒体
 - DOMAIN-SUFFIX,twitter.jp,🌍 国外媒体
 - DOMAIN-SUFFIX,vine.co,🌍 国外媒体
+- DOMAIN-SUFFIX,acg.tv,📺 哔哩哔哩
+- DOMAIN-SUFFIX,acgvideo.com,📺 哔哩哔哩
+- DOMAIN-SUFFIX,b23.tv,📺 哔哩哔哩
+- DOMAIN-SUFFIX,bigfun.cn,📺 哔哩哔哩
+- DOMAIN-SUFFIX,bigfunapp.cn,📺 哔哩哔哩
+- DOMAIN-SUFFIX,biliapi.com,📺 哔哩哔哩
+- DOMAIN-SUFFIX,biliapi.net,📺 哔哩哔哩
+- DOMAIN-SUFFIX,bilibili.com,📺 哔哩哔哩
+- DOMAIN-SUFFIX,bilibili.tv,📺 哔哩哔哩
+- DOMAIN-SUFFIX,biligame.com,📺 哔哩哔哩
+- DOMAIN-SUFFIX,biligame.net,📺 哔哩哔哩
+- DOMAIN-SUFFIX,im9.com,📺 哔哩哔哩
+- DOMAIN-SUFFIX,smtcdns.net,📺 哔哩哔哩
+- IP-CIDR,45.43.32.234/32,📺 哔哩哔哩
+- IP-CIDR,119.29.29.29/32,📺 哔哩哔哩
+- IP-CIDR,128.1.62.200/32,📺 哔哩哔哩
+- IP-CIDR,128.1.62.201/32,📺 哔哩哔哩
+- IP-CIDR,150.116.92.250/32,📺 哔哩哔哩
+- IP-CIDR,164.52.76.18/32,📺 哔哩哔哩
+- IP-CIDR,203.107.1.33/32,📺 哔哩哔哩
+- IP-CIDR,203.107.1.34/32,📺 哔哩哔哩
+- IP-CIDR,203.107.1.65/32,📺 哔哩哔哩
+- IP-CIDR,203.107.1.66/32,📺 哔哩哔哩
+- DOMAIN,intel-cache.m.iqiyi.com,📺 爱奇艺
+- DOMAIN,intel-cache.video.iqiyi.com,📺 爱奇艺
+- DOMAIN,intl-rcd.iqiyi.com,📺 爱奇艺
+- DOMAIN,intl-subscription.iqiyi.com,📺 爱奇艺
+- DOMAIN-SUFFIX,71.am,📺 爱奇艺
+- DOMAIN-SUFFIX,71edge.com,📺 爱奇艺
+- DOMAIN-SUFFIX,inter.iqiyi.com,📺 爱奇艺
+- DOMAIN-SUFFIX,inter.ptqy.gitv.tv,📺 爱奇艺
+- DOMAIN-SUFFIX,intl.iqiyi.com,📺 爱奇艺
+- DOMAIN-SUFFIX,iq.com,📺 爱奇艺
+- DOMAIN-SUFFIX,iqiyi.com,📺 爱奇艺
+- DOMAIN-SUFFIX,iqiyipic.com,📺 爱奇艺
+- DOMAIN-SUFFIX,ppsimg.com,📺 爱奇艺
+- DOMAIN-SUFFIX,qiyi.com,📺 爱奇艺
+- DOMAIN-SUFFIX,qiyipic.com,📺 爱奇艺
+- DOMAIN-SUFFIX,qy.net,📺 爱奇艺
+- IP-CIDR,23.40.241.251/32,📺 爱奇艺,no-resolve
+- IP-CIDR,23.40.242.10/32,📺 爱奇艺,no-resolve
+- IP-CIDR,103.44.56.0/22,📺 爱奇艺,no-resolve
+- IP-CIDR,118.26.32.0/23,📺 爱奇艺,no-resolve
+- IP-CIDR,118.26.120.0/24,📺 爱奇艺,no-resolve
+- IP-CIDR,223.119.62.225/28,📺 爱奇艺,no-resolve
+- DOMAIN,cache.video.iqiyi.com,📺 爱奇艺
 - DOMAIN-SUFFIX,openai.com,🤖 OPENAI
 - DOMAIN-SUFFIX,dler.cloud,👉 国外网站
 - DOMAIN-SUFFIX,dlercloud.com,👉 国外网站
@@ -6224,6 +6512,118 @@ rules:
 - DOMAIN-SUFFIX,decline.hitun.io,👉 国外网站
 - DOMAIN-SUFFIX,tgtw.cc,👉 国外网站
 - DOMAIN-SUFFIX,jubt.live,👉 国外网站
+- DOMAIN-KEYWORD,announce,📥 BT & PT
+- DOMAIN-KEYWORD,torrent,📥 BT & PT
+- DOMAIN-KEYWORD,tracker,📥 BT & PT
+- DOMAIN-SUFFIX,52pt.site,📥 BT & PT
+- DOMAIN-SUFFIX,aidoru-online.me,📥 BT & PT
+- DOMAIN-SUFFIX,alpharatio.cc,📥 BT & PT
+- DOMAIN-SUFFIX,animebytes.tv,📥 BT & PT
+- DOMAIN-SUFFIX,animetorrents.me,📥 BT & PT
+- DOMAIN-SUFFIX,anthelion.me,📥 BT & PT
+- DOMAIN-SUFFIX,asiancinema.me,📥 BT & PT
+- DOMAIN-SUFFIX,avgv.cc,📥 BT & PT
+- DOMAIN-SUFFIX,avistaz.to,📥 BT & PT
+- DOMAIN-SUFFIX,awesome-hd.me,📥 BT & PT
+- DOMAIN-SUFFIX,beitai.pt,📥 BT & PT
+- DOMAIN-SUFFIX,beyond-hd.me,📥 BT & PT
+- DOMAIN-SUFFIX,bibliotik.me,📥 BT & PT
+- DOMAIN-SUFFIX,bittorrent.com,📥 BT & PT
+- DOMAIN-SUFFIX,blutopia.xyz,📥 BT & PT
+- DOMAIN-SUFFIX,broadcasthe.net,📥 BT & PT
+- DOMAIN-SUFFIX,bt.byr.cn,📥 BT & PT
+- DOMAIN-SUFFIX,bt.neu6.edu.cn,📥 BT & PT
+- DOMAIN-SUFFIX,btschool.club,📥 BT & PT
+- DOMAIN-SUFFIX,bwtorrents.tv,📥 BT & PT
+- DOMAIN-SUFFIX,ccfbits.org,📥 BT & PT
+- DOMAIN-SUFFIX,cgpeers.com,📥 BT & PT
+- DOMAIN-SUFFIX,chdbits.co,📥 BT & PT
+- DOMAIN-SUFFIX,cinemageddon.net,📥 BT & PT
+- DOMAIN-SUFFIX,cinematik.net,📥 BT & PT
+- DOMAIN-SUFFIX,cinemaz.to,📥 BT & PT
+- DOMAIN-SUFFIX,classix-unlimited.co.uk,📥 BT & PT
+- DOMAIN-SUFFIX,concertos.live,📥 BT & PT
+- DOMAIN-SUFFIX,dicmusic.club,📥 BT & PT
+- DOMAIN-SUFFIX,discfan.net,📥 BT & PT
+- DOMAIN-SUFFIX,dxdhd.com,📥 BT & PT
+- DOMAIN-SUFFIX,eastgame.org,📥 BT & PT
+- DOMAIN-SUFFIX,empornium.me,📥 BT & PT
+- DOMAIN-SUFFIX,et8.org,📥 BT & PT
+- DOMAIN-SUFFIX,exoticaz.to,📥 BT & PT
+- DOMAIN-SUFFIX,extremlymtorrents.ws,📥 BT & PT
+- DOMAIN-SUFFIX,filelist.io,📥 BT & PT
+- DOMAIN-SUFFIX,gazellegames.net,📥 BT & PT
+- DOMAIN-SUFFIX,gfxpeers.net,📥 BT & PT
+- DOMAIN-SUFFIX,hd-space.org,📥 BT & PT
+- DOMAIN-SUFFIX,hd-torrents.org,📥 BT & PT
+- DOMAIN-SUFFIX,hd4.xyz,📥 BT & PT
+- DOMAIN-SUFFIX,hd4fans.org,📥 BT & PT
+- DOMAIN-SUFFIX,hdarea.co,📥 BT & PT
+- DOMAIN-SUFFIX,hdatmos.club,📥 BT & PT
+- DOMAIN-SUFFIX,hdbd.us,📥 BT & PT
+- DOMAIN-SUFFIX,hdbits.org,📥 BT & PT
+- DOMAIN-SUFFIX,hdchina.org,📥 BT & PT
+- DOMAIN-SUFFIX,hdcity.city,📥 BT & PT
+- DOMAIN-SUFFIX,hddolby.com,📥 BT & PT
+- DOMAIN-SUFFIX,hdfans.org,📥 BT & PT
+- DOMAIN-SUFFIX,hdhome.org,📥 BT & PT
+- DOMAIN-SUFFIX,hdpost.top,📥 BT & PT
+- DOMAIN-SUFFIX,hdroute.org,📥 BT & PT
+- DOMAIN-SUFFIX,hdsky.me,📥 BT & PT
+- DOMAIN-SUFFIX,hdstreet.club,📥 BT & PT
+- DOMAIN-SUFFIX,hdtime.org,📥 BT & PT
+- DOMAIN-SUFFIX,hdupt.com,📥 BT & PT
+- DOMAIN-SUFFIX,hdzone.me,📥 BT & PT
+- DOMAIN-SUFFIX,hitpt.com,📥 BT & PT
+- DOMAIN-SUFFIX,hitpt.org,📥 BT & PT
+- DOMAIN-SUFFIX,hudbt.hust.edu.cn,📥 BT & PT
+- DOMAIN-SUFFIX,icetorrent.org,📥 BT & PT
+- DOMAIN-SUFFIX,iptorrents.com,📥 BT & PT
+- DOMAIN-SUFFIX,j99.info,📥 BT & PT
+- DOMAIN-SUFFIX,joyhd.net,📥 BT & PT
+- DOMAIN-SUFFIX,jpopsuki.eu,📥 BT & PT
+- DOMAIN-SUFFIX,karagarga.in,📥 BT & PT
+- DOMAIN-SUFFIX,keepfrds.com,📥 BT & PT
+- DOMAIN-SUFFIX,leaguehd.com,📥 BT & PT
+- DOMAIN-SUFFIX,lztr.me,📥 BT & PT
+- DOMAIN-SUFFIX,m-team.cc,📥 BT & PT
+- DOMAIN-SUFFIX,madsrevolution.net,📥 BT & PT
+- DOMAIN-SUFFIX,moecat.best,📥 BT & PT
+- DOMAIN-SUFFIX,morethan.tv,📥 BT & PT
+- DOMAIN-SUFFIX,msg.vg,📥 BT & PT
+- DOMAIN-SUFFIX,myanonamouse.net,📥 BT & PT
+- DOMAIN-SUFFIX,nanyangpt.com,📥 BT & PT
+- DOMAIN-SUFFIX,ncore.cc,📥 BT & PT
+- DOMAIN-SUFFIX,nebulance.io,📥 BT & PT
+- DOMAIN-SUFFIX,nicept.net,📥 BT & PT
+- DOMAIN-SUFFIX,npupt.com,📥 BT & PT
+- DOMAIN-SUFFIX,nwsuaf6.edu.cn,📥 BT & PT
+- DOMAIN-SUFFIX,open.cd,📥 BT & PT
+- DOMAIN-SUFFIX,oppaiti.me,📥 BT & PT
+- DOMAIN-SUFFIX,orpheus.network,📥 BT & PT
+- DOMAIN-SUFFIX,ourbits.club,📥 BT & PT
+- DOMAIN-SUFFIX,passthepopcorn.me,📥 BT & PT
+- DOMAIN-SUFFIX,pornbits.net,📥 BT & PT
+- DOMAIN-SUFFIX,privatehd.to,📥 BT & PT
+- DOMAIN-SUFFIX,pterclub.com,📥 BT & PT
+- DOMAIN-SUFFIX,pthome.net,📥 BT & PT
+- DOMAIN-SUFFIX,ptsbao.club,📥 BT & PT
+- DOMAIN-SUFFIX,pussytorrents.org,📥 BT & PT
+- DOMAIN-SUFFIX,redacted.ch,📥 BT & PT
+- DOMAIN-SUFFIX,sdbits.org,📥 BT & PT
+- DOMAIN-SUFFIX,sjtu.edu.cn,📥 BT & PT
+- DOMAIN-SUFFIX,skyey2.com,📥 BT & PT
+- DOMAIN-SUFFIX,soulvoice.club,📥 BT & PT
+- DOMAIN-SUFFIX,springsunday.net,📥 BT & PT
+- DOMAIN-SUFFIX,tjupt.org,📥 BT & PT
+- DOMAIN-SUFFIX,torrentday.com,📥 BT & PT
+- DOMAIN-SUFFIX,torrentleech.org,📥 BT & PT
+- DOMAIN-SUFFIX,torrentseeds.org,📥 BT & PT
+- DOMAIN-SUFFIX,totheglory.im,📥 BT & PT
+- DOMAIN-SUFFIX,trontv.com,📥 BT & PT
+- DOMAIN-SUFFIX,u2.dmhy.org,📥 BT & PT
+- DOMAIN-SUFFIX,uhdbits.org,📥 BT & PT
+- DOMAIN-SUFFIX,xauat6.edu.cn,📥 BT & PT
 - DOMAIN-KEYWORD,1drv,🧩 微软服务
 - DOMAIN-KEYWORD,microsoft,🧩 微软服务
 - DOMAIN-SUFFIX,aadrm.com,🧩 微软服务
