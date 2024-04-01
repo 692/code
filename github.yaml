@@ -376,7 +376,7 @@ proxy-groups:
   - 🌍 全球直连
   - 🌐 节点选择
   - 💡 自动选择
-  - WARP-1
+  - 2024年4月1日
   - WARP-2
   - WARP-3
   - WARP-4
@@ -392,7 +392,7 @@ proxy-groups:
   - 🌍 全球直连
   - 🌐 节点选择
   - 💡 自动选择
-  - WARP-1
+  - 2024年4月1日
   - WARP-2
   - WARP-3
   - WARP-4
@@ -406,7 +406,7 @@ proxy-groups:
 - name: 🌍 全球直连
   proxies:
   - DIRECT
-  - WARP-1
+  - 2024年4月1日
   - WARP-2
   - WARP-3
   - WARP-4
@@ -421,7 +421,7 @@ proxy-groups:
   proxies:
   - REJECT
   - DIRECT
-  - WARP-1
+  - 2024年4月1日
   - WARP-2
   - WARP-3
   - WARP-4
@@ -436,7 +436,7 @@ proxy-groups:
   proxies:
   - REJECT
   - DIRECT
-  - WARP-1
+  - 2024年4月1日
   - WARP-2
   - WARP-3
   - WARP-4
