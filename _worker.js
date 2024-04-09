@@ -2,7 +2,7 @@ export default {
   async fetch(request, env) {
     let url = new URL(request.url);
     if (url.pathname.startsWith('/')) {
-      url.hostname = 'fd.6889692.onflashdrive.app'
+      url.hostname = 'ts.6889692.onflashdrive.app'
       let new_request = new Request(url, request);
       return fetch(new_request);
     }
